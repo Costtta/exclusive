@@ -15,7 +15,7 @@ import ProductsDetails from './components/ProductsDetails';
 function App() {
   return (
     <Routes>
-      <Route index element={<Home />}/>
+      <Route path='/' element={<Home />}/>
       <Route path='/signIn' element={<SignIn />}/>
       <Route path='/signUp' element={<SignUp />}/>
       <Route path='/error' element={<ErrorPage />}/>
@@ -24,7 +24,7 @@ function App() {
       <Route path='/cart' element={<Cart />} />
       <Route path='/account' element={<Account />} />
       <Route path='/wishList' element={<WishList />} />
-      <Route path=':homeId' element={<ProductsDetails />}/>
+      <Route path='/:homeId' element={<ProductsDetails />}/>
     </Routes>
   );
 }
