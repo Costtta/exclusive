@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/exclusive/static/css/main.e6c13ad2.css",
+    "main.js": "/exclusive/static/js/main.96b19314.js",
+    "static/media/about.webp": "/exclusive/static/media/about.5078b2b3c00ef20491d5.webp",
+    "static/media/about3.webp": "/exclusive/static/media/about3.5097b3ddd7f819ed6b64.webp",
+    "static/media/women.webp": "/exclusive/static/media/women.8e16111296206d98c0f8.webp",
+    "static/media/jbl.webp": "/exclusive/static/media/jbl.1d29f5cc946c0fff982d.webp",
+    "static/media/about1.webp": "/exclusive/static/media/about1.45e5f99103d5666ad1c4.webp",
+    "static/media/register.webp": "/exclusive/static/media/register.626e9f5bbdb2ff6868e3.webp",
+    "static/media/bestSelling2.webp": "/exclusive/static/media/bestSelling2.b9377a957c1a2a63b4e3.webp",
+    "static/media/hero.webp": "/exclusive/static/media/hero.f47d9688870d04e5249f.webp",
+    "static/media/perfume.webp": "/exclusive/static/media/perfume.2c17b7654c314930fb28.webp",
+    "static/media/bestSelling4.webp": "/exclusive/static/media/bestSelling4.cba5037dbe42ab0f004d.webp",
+    "static/media/bestSelling1.webp": "/exclusive/static/media/bestSelling1.2ceab7d87ffe47733cd5.webp",
+    "static/media/about2.webp": "/exclusive/static/media/about2.2dc1b0869c4e689146d3.webp",
+    "static/media/speakers.webp": "/exclusive/static/media/speakers.d3bcabeaf8d7b9905e7a.webp",
+    "static/media/playstation.webp": "/exclusive/static/media/playstation.c875660854636ebf2b29.webp",
+    "static/media/bestSelling3.webp": "/exclusive/static/media/bestSelling3.f5674078c5ebc13e53d6.webp",
+    "static/media/QrCode.webp": "/exclusive/static/media/QrCode.2e4218b341791c3027e9.webp",
+    "index.html": "/exclusive/index.html",
+    "static/media/random-icon.webp": "/exclusive/static/media/random-icon.ac10322cf3e1dcd1e0ed.webp",
+    "main.e6c13ad2.css.map": "/exclusive/static/css/main.e6c13ad2.css.map",
+    "main.96b19314.js.map": "/exclusive/static/js/main.96b19314.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.96b19314.js"
+  ]
+}
