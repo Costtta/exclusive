@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "title": "HAVIT HV-G92 Gamepad",
+        "price": 160,
+        "discount": 120,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "Sales",
+        "image": "https://s3-alpha-sig.figma.com/img/5d5c/2e52/50752d55f8b60f2aa2923183dadbc135?Expires=1742169600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=l3hM6f9sktQuAoqfB-8ADLybdXXjrf3tyDS6rAkBIgWD7i9cnyFN2Lgzj6p7~kzcg6H94mT9V65SpJo~1PwaDSTLdTWPY0CG2h~N1Lt~dFRPx3NmLVqIb7BgxYZ1xPMov02NSZW6iv7soeimn4cdmmUCH61YxkyoP~nzEV~CXqdsZQ0dhxZmDRZv~0eqWGJi7dOLAPjHGB87RFFr~RcBiNBbxojX20daK2i7t1Yl6kncL4ReSMEruFq9Mg9ZAhu9K8id42TJjdLYc3KjVFyXEqSuTTImwkxNws~HAcbzfg-t-WIEHrAQLDx1KBrcYma0xb0nxHQ~1hIhj8Xz546sQg__",
+        "rating": {
+            "rate": 5,
+            "count": 120
+        },
+        "sold": 88
+    },
+    {
+        "id": 2,
+        "title": "AK-900 Wired Keyboard",
+        "price": 1160,
+        "discount": 960,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "Sales",
+        "image": "https://s3-alpha-sig.figma.com/img/e59d/9f34/8cc24eeff489863523b63971c3ff8e4a?Expires=1742169600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=FHVmvlQ0qcj~rNgFkrk4Eb50~4WF8RFduZEqyGM2yFItzwtRF0fokLSXHvoVeTu7h6vvZNOw2QOiw7ZR5EvxtKmGOnbR2Iw9WLiSxdi4Szo5qzPbouHbDI7wmevwrngGnWEwPEUZXgVv4DacrDBblKNZG~k3VcU0Ihwsfg1uYwh0nPwzB3EIM12UYVmnQQnVUmn~fn-xcBMKAlpL0SdBkHq5vwj3ZmiP6b7SZd9Y2GA~VMawfWklijapMPhhSLosG15TRaNoDmHpcsubwVuzLOMcMGST8m7PSya~DFk0ZAl9G2YHNQwTidrvyRnO2DQR-8XOEXA31VuBWepK~C1c5g__",
+        "rating": {
+            "rate": 4,
+            "count": 120
+        },
+        "sold": 75
+    },
+    {
+        "id": 3,
+        "title": "IPS LCD Gaming Monitor",
+        "price": 400,
+        "discount": 370,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "Sales",
+        "image": "https://s3-alpha-sig.figma.com/img/5e63/4682/db5174aff99bb9337d2dc9598a0b44e4?Expires=1742169600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=o0Vm8R~f1xmKFyroIfj03OSjn1UrZyg6vqTWDTh47IoypePFPtDQGyF3AVp3HO~wSYyfU-0hG--tap9ouFLkWkvnA6OEk6ga~L3PRWuv1pk1iwLXKW5JIWzj-PDiDp757jrV7xIymA-KPZb5dNJT5S6dZvivjfvzlRMTs1IPUCk2asgAa2W8XDGO-Jarq8AKe8pignGa6PixdxRq-bzbcaOvwvvLGll8L3jbyjrJBEY8bM2h-UxPRFAPM4H5G96tdA3ds6mFs-0fJuvDgds5hlyuYkmjVuhgHhXN2FnczvQg0lIbQaOdh8URfdJW2T8dv3tmcDcIut9rEL9s-0du7A__",
+        "rating": {
+            "rate": 5,
+            "count": 120
+        },
+        "sold": 99
+    },
+    {
+        "id": 4,
+        "title": "HAVIT HV-G92 Gamepad",
+        "price": 400,
+        "discount": 375,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "Sales",
+        "image": "https://s3-alpha-sig.figma.com/img/288d/a330/273c46e1c3dc0a8915c4b031d0345347?Expires=1742169600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=Ez9YwPfoR~nJNgvC1id5JOOVY2~fQ1r~FTUBr3o4K9OFQ0SGECEiJhqqs~uCdb9ozhG7Z323q5-BgzHN8f4pS0ckfm3GbTKkNY7M9sLMhU~HaEo44SeWBB2Pb7Pu-Ow-fmHVbuugOVm2iEVkhUxmtNniemc-5vCeOGnRdIlNPm4zoAwf380kdglcFMLfqTkyTnItdFq6lJ0QjHr2tza0ikfz3hjOF0cPMRdMAQm9rGGAP8UdPTtLUIfZUhQuVv77GrEnz1LqNX7EIFBpst-xYxo9ldgy~dKQRVEWcQRxAn~T5PYFPxIOXirVRVJC7MopGyAsVjhnF3OB4XqAi~w~aQ__",
+        "rating": {
+            "rate": 4,
+            "count": 120
+        },
+        "sold": 99
+    }
+]
